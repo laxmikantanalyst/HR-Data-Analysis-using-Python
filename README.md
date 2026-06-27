@@ -1,2 +1,1 @@
-# HR-Data-Analysis-using-Python
-This project performs Exploratory Data Analysis (EDA) on an HR dataset using Python. The objective is to analyze employee information, identify salary patterns, understand workforce distribution, and generate meaningful business insights through data visualization.
+A Python-based HR Data Analysis project that performs Exploratory Data Analysis (EDA) on employee data using Pandas, NumPy, Matplotlib, and Seaborn. The project uncovers insights into salary distribution, department-wise average salary, employee status, work mode, and performance through data visualization.
