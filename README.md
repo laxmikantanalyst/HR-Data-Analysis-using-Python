@@ -1,1 +1,4 @@
-![HR Dashboard](dashboard.png)
+HR-Data-Analysis/
+│── README.md
+│── images/
+│     └── dashboard.png
