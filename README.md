@@ -3,7 +3,7 @@
 ## Dashboard Preview
 
 <p align="center">
-  <img src="HR_dashboard.png" alt="HR Data Analytics Dashboard" width="100%">
+  <img src="HR_Dashboard.png" alt="HR Data Analytics Dashboard" width="100%">
 </p>
 
 ---
